@@ -1,0 +1,23 @@
+{
+  "name": "@berozapaul/hello-world",
+  "version": "1.0.0",
+  "description": "First npm package to publish on npmjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/berozapaul/npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "Beroza Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berozapaul/npm-package/issues"
+  },
+  "homepage": "https://github.com/berozapaul/npm-package#readme"
+}
